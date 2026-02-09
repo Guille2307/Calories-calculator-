@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@layer utilities {
+  .bg-hero {
+    background-image: url('/brooke-lark-HlNcigvUi4Q-unsplash.jpg');
+  }
+}
