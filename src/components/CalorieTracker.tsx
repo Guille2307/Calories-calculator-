@@ -45,7 +45,7 @@ export default function CalorieTracker({ activities }: CalorieTrackerProps) {
         <CalorieDisplay
           calories={caloriesBurned}
           text="Calories burned"
-          color="orange-500"
+          color="white"
         />
         <CalorieDisplay
           calories={netCalories}
